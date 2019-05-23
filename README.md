@@ -19,3 +19,5 @@ npm run dev
 npm run build
 ```
 
+此版本为可使用的工程化iview版本，注意建立项目的时候用npm run init
+修改此版本打开文件错误问题
